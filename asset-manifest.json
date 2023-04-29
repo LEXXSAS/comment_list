@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/comment_list/static/js/main.559f58ec.js",
+    "static/media/ninja.png": "/comment_list/static/media/ninja.fcf96439e54d05f13672.png",
+    "static/media/woman5.png": "/comment_list/static/media/woman5.917bf718e4607083f965.png",
+    "index.html": "/comment_list/index.html",
+    "main.559f58ec.js.map": "/comment_list/static/js/main.559f58ec.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.559f58ec.js"
+  ]
+}
