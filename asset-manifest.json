@@ -1,12 +1,13 @@
 {
-  "files": {
-    "main.js": "/comment_list/static/js/main.559f58ec.js",
-    "static/media/ninja.png": "/comment_list/static/media/ninja.fcf96439e54d05f13672.png",
-    "static/media/woman5.png": "/comment_list/static/media/woman5.917bf718e4607083f965.png",
-    "index.html": "/comment_list/index.html",
-    "main.559f58ec.js.map": "/comment_list/static/js/main.559f58ec.js.map"
-  },
-  "entrypoints": [
-    "static/js/main.559f58ec.js"
-  ]
+  "main.js": "/comment_list/static/js/main.9fa36d85.chunk.js",
+  "main.js.map": "/comment_list/static/js/main.9fa36d85.chunk.js.map",
+  "runtime~main.js": "/comment_list/static/js/runtime~main.f6670c94.js",
+  "runtime~main.js.map": "/comment_list/static/js/runtime~main.f6670c94.js.map",
+  "static/js/2.5c70deb8.chunk.js": "/comment_list/static/js/2.5c70deb8.chunk.js",
+  "static/js/2.5c70deb8.chunk.js.map": "/comment_list/static/js/2.5c70deb8.chunk.js.map",
+  "index.html": "/comment_list/index.html",
+  "precache-manifest.ece4f7fcd51042a58041732cf3b6a499.js": "/comment_list/precache-manifest.ece4f7fcd51042a58041732cf3b6a499.js",
+  "service-worker.js": "/comment_list/service-worker.js",
+  "static/media/ninja.png": "/comment_list/static/media/ninja.d25c4dec.png",
+  "static/media/woman5.png": "/comment_list/static/media/woman5.462e90b8.png"
 }
